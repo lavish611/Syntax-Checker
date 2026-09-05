@@ -25,3 +25,14 @@ Syntax-Checker/
 ├── index.html
 ├── index.CPP
 └── README.md
+
+
+## 🎯 Purpose
+
+The purpose of this project is to provide a simple tool for identifying syntax errors in source code and helping users understand and fix coding mistakes.
+
+## 👩‍💻 Author
+
+**Bhawna Saini**
+
+GitHub: https://github.com/lavish611
